@@ -11,6 +11,8 @@ font-family: Arial;
 margin: 6px;
 background-color: rgb(250, 255, 173)}
 
+p{width: 80vw;}
+
 div
 {min-height: 66vh;
 width: 80vw;}
